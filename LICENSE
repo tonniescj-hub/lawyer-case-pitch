@@ -19,3 +19,39 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+## 许可范围说明（SCOPE OF LICENSE — 重要）
+
+上述 MIT 许可**仅适用于本仓库作者原创撰写的部分**，包括：
+
+- `SKILL.md` 及各 `references/` 文件的结构编排
+- 作者自行撰写的说明文字、判断规则、示例话术
+- 构建脚本与文档
+
+**不在 MIT 许可覆盖范围内的内容**：
+
+本项目在构建过程中参考了若干公开流传的中文律师谈案话术资料。这些资料的原始作者、版权归属与授权状态均**无法确认**，因此：
+
+1. 不对其权属状况作任何陈述或保证；
+2. 不声明这些内容适用 MIT 许可；
+3. 使用者如需用于商业目的（售卖、付费课程、企业内训等），**应自行评估相关权利状况**；
+4. 权利人如认为本项目内容侵犯其权利，可联系仓库维护者，我们将及时处理。
+
+**公开分享不等于不存在版权风险。** 免费获取的素材，其再分发权利仍需单独确认。
+
+---
+
+## SCOPE OF LICENSE (English)
+
+The MIT license above applies **only to the original portions authored in this repository**: the structure of `SKILL.md` and the `references/` files, the explanatory text, decision rules, and example scripts written by the maintainer.
+
+This project drew on several anonymously circulated Chinese-language legal-pitching compilations. Their authorship, copyright ownership, and licensing status **cannot be verified**. They are:
+
+1. Not covered by the MIT license;
+2. Not accompanied by any representation or warranty as to their rights status;
+3. The responsibility of the user to assess before any commercial use;
+4. Subject to removal upon a valid claim by a rights holder.
+
+**Public availability does not mean the absence of copyright risk.**
