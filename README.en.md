@@ -2,7 +2,7 @@
 
 > Paste what your client just said. Get back the exact sentence to reply with — copyable, speakable, no analysis in the way.
 
-![version](https://img.shields.io/badge/version-1.3.0-blue)
+![version](https://img.shields.io/badge/version-1.3.1-blue)
 ![license](https://img.shields.io/badge/license-MIT-green)
 ![format](https://img.shields.io/badge/format-SKILL.md-orange)
 
@@ -87,6 +87,16 @@ It remembers the same client — no re-describing the case, no recycling last ro
 2. **Never fabricate** — no invented case counts, win rates, credentials, client psychology, or fee figures.
 3. **Never pressure a signature.** If they say "let me think," give one useful next step and stop.
 
+## What v1.3.1 fixed
+
+An independent review flagged five legal errors and six classes of over-reach in the generated scripts. All corrected:
+
+- **Contingency fee caps** — the old "uniform 30%" was wrong. Under 司发通〔2021〕87号 the cap is **progressive by bracket**: 18% on the portion under ¥1M, 15% on ¥1M–5M, 12% on ¥5M–10M, 9% on ¥10M–50M, 6% above ¥50M, applied to the **aggregate** across all stages.
+- **Deleted** the misleading claim that a judgment "locks in the debt permanently" — enforcement must be applied for (generally within 2 years).
+- **Bigamy** is no longer described as purely a private prosecution — the public prosecution route is included.
+- **Work injury** procedure no longer asserted as "four mandatory steps."
+- **Three new hard constraints**: the agent must not promise the lawyer's services, commercial terms or working methods; must not invent first-person case experience; must not attribute motives to the client.
+
 ---
 
 ## Scope & privacy
@@ -95,7 +105,7 @@ Civil & commercial intake only (phone / WeChat / in person). No criminal defense
 
 Anonymise names, phone numbers, ID numbers, full addresses and bank accounts before pasting real matters.
 
-**Licensing note**: the original build drew on four anonymously-circulated Chinese script compilations whose redistribution rights cannot be verified. v1.3.0 rewrote the objection library, fee rules and output spec from scratch, and structurally rewrote the rest. **This is not a claim that copyright risk is resolved.** See `references/00-设计与来源说明.md` §3.
+**Licensing note**: the original build drew on four anonymously-circulated Chinese script compilations whose redistribution rights cannot be verified. v1.3.0–v1.3.1 rewrote the objection library, fee rules and output spec from scratch, and structurally rewrote the rest. **This is not a claim that copyright risk is resolved.** See `references/00-设计与来源说明.md` §3.
 
 ## License
 
